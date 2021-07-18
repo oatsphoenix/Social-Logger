@@ -1,8 +1,7 @@
 # Social-Logger
  Social Logger allows the user to log into Facebook, Instagram, and Twitter in one magnificent swoop.
 
-**Social Logger
-Brought to you by Oatsphoenix**
+**Brought to you by Oatsphoenix**
 
 SETUP
 
